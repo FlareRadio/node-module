@@ -3,6 +3,10 @@
   "version": "1.0.4",
   "description": "A module to interact with the Flare Radio API.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlareRadio/node-module.git"
+  },
   "scripts": {
     "test": "jest"
   },
