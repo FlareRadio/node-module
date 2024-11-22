@@ -42,6 +42,12 @@ If you want to check this module is performing as expected, you can use the foll
 npm run test
 ```
 
+## Pull Requests
+
+If you would like to contribute to this module, please feel free to make a pull request. We will review all pull requests and merge them if they are beneficial to the module.
+
+[GitHub](https://github.com/FlareRadio/node-module)
+
 ## Support
 
-If you find any issues with this module, or you have any ideas on ways to improve it, please join our [Discord server](https://discord.gg/3dYHRJAhZZ).
+If you find any issues with this module, or you have any ideas on ways to improve it that you are not able to submit via a PR, please join our [Discord server](https://discord.gg/3dYHRJAhZZ).
