@@ -1,3 +1,5 @@
+// Description: Main file for the flareradio package.
+
 const axios = require('axios');
 
 const flareradio = {
