@@ -1,0 +1,22 @@
+{
+  "name": "flareradio",
+  "version": "1.0.4",
+  "description": "A module to interact with the Flare Radio API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "flare",
+    "radio",
+    "stats"
+  ],
+  "author": "Jack Dawson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
